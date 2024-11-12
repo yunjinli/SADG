@@ -1,2 +1,1 @@
-# SADG
-SADG: Segment Any Dynamic Gaussians
+# SADG: Segment Any Dynamic Gaussians
